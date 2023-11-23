@@ -57,7 +57,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
-![Uploading Screenshot 2023-11-23 092459.png…]()
+![Screenshot 2023-11-23 092459](https://github.com/Haripriya132006/Muttiple-capacity-with-infinite-capacity/assets/144870747/438a0450-5c73-4fde-869a-61811cac5010)
 
 
 ## Result : 
